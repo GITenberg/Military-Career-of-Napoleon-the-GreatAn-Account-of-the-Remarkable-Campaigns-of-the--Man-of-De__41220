@@ -1,0 +1,28 @@
+_repo: Military-Career-of-Napoleon-the-GreatAn-Account-of-the-Remarkable-Campaigns-of-the--Man-of-De__41220
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41220-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gibbs, Montgomery B.
+    gutenberg_agent_id: '41044'
+    url: http://www.gutenberg.org/2009/agents/41044
+description: ''
+gutenberg_issued: '2012-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with marshals'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Military leadership'
+- !lcsh 'France -- History -- 1789-1815'
+- !lcc 'DC'
+title: "Military Career of Napoleon the Great\r\nAn Account of the Remarkable Campaigns\
+  \ of the \"Man of Destiny\"; Authentic Anecdotes of the Battlefield as Told by the\
+  \ Famous Marshals and Generals of the First Empire"
+url: http://www.gutenberg.org/ebooks/41220
